@@ -71,3 +71,14 @@ main p {
     max-width: 649px;
     margin-bottom: 32px;
 }
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section img {
+    width: 120px;
+    height: 120px;  
+}
